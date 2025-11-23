@@ -1,5 +1,6 @@
 
 A Guide to Changing DNS Servers on Your System: 
+On using VPNS you Dns file might change try using this to update the config file for normal browsing without vpns
 Note: Make sure you have the appropriate permissions to modify files and execute scripts on your Linux system.
 
 DNS server IP addresses that you can use:
